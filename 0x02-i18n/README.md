@@ -1,0 +1,1 @@
+Internationalization (i18n) refers to the process of designing software in a way that it can easily be adapted to different languages, regions, and cultures without requiring significant changes to the code. The "18" in i18n comes from the number of letters between the first "i" and the last "n" in the word "internationalization
